@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Struct-Dumb"
 VERSION=0.03
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl simple struct type module"
 DESCRIPTION="'Struct::Dumb' creates record-like structure types, similar to the
